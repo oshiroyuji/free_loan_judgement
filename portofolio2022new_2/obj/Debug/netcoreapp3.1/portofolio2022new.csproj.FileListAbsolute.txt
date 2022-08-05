@@ -1,0 +1,15 @@
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.exe
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.deps.json
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.runtimeconfig.json
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.runtimeconfig.dev.json
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.dll
+C:\Users\205\source\repos\portofolio2022new\bin\Debug\netcoreapp3.1\portofolio2022new.pdb
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.csprojAssemblyReference.cache
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.Form1.resources
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.csproj.GenerateResource.cache
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.AssemblyInfoInputs.cache
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.AssemblyInfo.cs
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.csproj.CoreCompileInputs.cache
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.dll
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.pdb
+C:\Users\205\source\repos\portofolio2022new\obj\Debug\netcoreapp3.1\portofolio2022new.genruntimeconfig.cache
